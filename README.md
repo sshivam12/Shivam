@@ -1,8 +1,7 @@
-
+[![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)]
 <h1 align="center">Hi 👋, I'm Shivam Sahu</h1>
 <h3 align="center">A passionate full stack web-developer from India</h3>
-<img src="https://https://www.wingstechsolutions.com/blog/featuring-everything-about-full-stack-development/" alt="Lamp" width="400" img aling="right">
-
+<img aling="right" alt="Coding" width="450" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshivam12&label=Profile%20views&color=0e75b6&style=flat" alt="sshivam12" /> </p>
 
